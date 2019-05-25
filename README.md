@@ -9,3 +9,4 @@
 "# blog-sitesi" 
 "# blog-sitesi" 
 # blog-sitesi
+# django-urls
